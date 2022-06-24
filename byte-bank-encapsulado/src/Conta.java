@@ -3,6 +3,7 @@ public class Conta {
     private double saldo;
     private int numero;
     private int agencia;
+
     private static int total; //atributo da Classe e nao da instancia, este e compartilhado entre todas instancias.
 
 
